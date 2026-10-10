@@ -28,3 +28,4 @@ Netlify/Cloudflare Pages work too (add an SPA fallback to `index.html`).
 - Add `og-image.png` (1200x630) for best social previews; an SVG placeholder is included.
 - Reduced-motion and no-WebGL users get a static hero visual.
 # iSTAND-CONSULT-LTD
+# iSTAND-CONSULT-LTD
